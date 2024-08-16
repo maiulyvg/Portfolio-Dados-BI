@@ -43,7 +43,8 @@ Posteriormente, foram definidas perguntas de negócio para analisar a situação
 Primeiramente, foi feita a transferência de dados de EPR e CRM em csv para um Banco de Dados Relacional empregando SQLite3.
 Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados.
 E dando início a análise de dados, foram escritos scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
-O script desenvolvido, com base nas análises realizadas para o entendimento do negócio, está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py).
+
+**O script desenvolvido**, com base nas análises realizadas para o entendimento do negócio, está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py).
 
 ## **Vizualização de Dados**
 Com base nos dados financeiros tratados foi gerado o dashboard em Power BI, que está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjlhODNhYWYtZjQ1My00YmU0LWFiNGMtZTkzZDU0MjM5MzhhIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9)
