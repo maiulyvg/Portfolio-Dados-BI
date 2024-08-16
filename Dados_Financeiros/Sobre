@@ -1,0 +1,3 @@
+Transferência de dados de EPR e CRM para Data Warehouse (BigQuery). 
+Uso de SQL para consultas no banco de dados, seguida por aplicação de scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
+Com execução de recomendações à tomadores de decisão com base de insights acionáveis.
