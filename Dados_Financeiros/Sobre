@@ -1,4 +1,7 @@
 Transferência de dados de EPR e CRM um Banco de Dados Relacional empregando SQLite3.
 Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados.
 Dando início a análise de dados, foram escritos scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
+Com base nos dados financeiros tratados foi gerado o dashboard em Power BI, que está disponível através do link:
+https://app.powerbi.com/view?r=eyJrIjoiNjlhODNhYWYtZjQ1My00YmU0LWFiNGMtZTkzZDU0MjM5MzhhIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
+
 Por fim, com base nos resultados foram feita recomendações à tomadores de decisão com base de insights acionáveis.
