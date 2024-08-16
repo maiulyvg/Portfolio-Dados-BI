@@ -47,7 +47,7 @@ E dando início a análise de dados, foram escritos scripts com Python para aná
 **O script desenvolvido**, com base nas análises realizadas para o entendimento do negócio, está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py).
 
 ## **Vizualização de Dados**
-Com base nos dados financeiros tratados foi gerado o dashboard em Power BI, que está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjlhODNhYWYtZjQ1My00YmU0LWFiNGMtZTkzZDU0MjM5MzhhIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9)
+Com base nos dados financeiros tratados foi gerado o **Dashboard em Power BI**, que está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjlhODNhYWYtZjQ1My00YmU0LWFiNGMtZTkzZDU0MjM5MzhhIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9)
 
 
 ## **Respostas das Perguntas de Negócio**
