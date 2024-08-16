@@ -74,7 +74,7 @@ Com base nos dados financeiros tratados foi gerado o dashboard em Power BI, que 
 - Em relação as transações do tipo PIX, que começaram no final do ano 2020, elas passaram a ser a modalidade de envio e recebimento de dinheiro mais utilizadas, principalmente no mês de dezembro. Sendo que o DOC e o TED praticamente entraram em desuso de 2021 em diante. Por sua vez, a modalidade de compra de produtos e serviços mais utilizada foi compra no crédito, seguida por compra no débito. Fato que pode ser explicado pela facilidade nos últimos dos clientes anos adquirirem cartões de crédito via conta digital. Além disso, pode se dever as fato de o banco oferecer um aplicativo com interface amigável aos clientes, que os incentivam a controlar as compras e antecipar parcelas ganhando descontos na fatura do cartão.
 
 ![Distribuição dos diferentes tipos de transações pelos menos do ano (a esquerda) e no decorrer dos anos (direita)](/Dados_Financeiros/imagens/fig1-dados_financeiros.jpg)
-
+Legenda: Distribuição dos diferentes tipos de transações pelos menos do ano (a esquerda) e no decorrer dos anos (direita).
 
 ### 📍 Status das propostas de crédito
 - O tempo de vínculo com o banco dos clientes que pedem proposta financeira varia de 2 a 5 anos.
