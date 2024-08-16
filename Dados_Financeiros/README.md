@@ -43,10 +43,7 @@ Posteriormente, foram definidas perguntas de negócio para analisar a situação
 Primeiramente, foi feita a transferência de dados de EPR e CRM em csv para um Banco de Dados Relacional empregando SQLite3.
 Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados.
 E dando início a análise de dados, foram escritos scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
-No script desenvolvido, que está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py), são descritas as análises que foram necessárias para o entendimento do negócio e que podem ser úteis no suporte para a tomada de decisão.
-Assim como o Tratamento dos Dados, as Análises de Dados também foram realizadas com a linguagem Python e constam em detalhe no script.
-
- 
+O script desenvolvido, com base nas análises realizadas para o entendimento do negócio, está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py).
 
 ## **Vizualização de Dados**
 Com base nos dados financeiros tratados foi gerado o dashboard em Power BI, que está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjlhODNhYWYtZjQ1My00YmU0LWFiNGMtZTkzZDU0MjM5MzhhIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9)
@@ -84,7 +81,7 @@ Legenda: Distribuição dos diferentes tipos de transações pelos menos do ano 
 - Em relação as agências, a Agência Digital é a agência com maior número de propostas de crédito enviada, da ordem de 1.000 propostas, com valor emprestado somado de R$ 4.114808e+10.
 
 ## **Conclusão sobre o projeto de dados financeiros**
-- O BancoVic está com movimentações positivas no decorrer dos anos;
+- O Banco MG está com movimentações positivas no decorrer dos anos;
 - O saldo das contas é parecido entre os estados que o banco atualmente possuí agências;
 - Só existem clientes na categoria pessoa física, por isso seria interessante implementar soluções para atingir o público das empresas;
 - Diminuir o tempo de inatividade dos clientes através da implementação de medidas de incentivo ao uso da conta para clientes mais inativos;
@@ -92,7 +89,7 @@ Legenda: Distribuição dos diferentes tipos de transações pelos menos do ano 
 - A Segunda Quinzena do mês tem, em média, com maior volume de transações, todavia é a Primeira Quinzena que apresenta em média, o maior volume de transações. Assim sendo, conclui-se que na Segunda Quinzena são realizadas menos transações com valores mais altos, comparativamente aos realizados na Primeira Quinzena;
 - Os clientes jovens de recente de vínculo com o banco tem maior propensão a fazerem empréstimos;
 - Seria interessante investir mais na ampliação da atuação da agência digital, porque ela tem apresentado números promissores em relação a número clientes, volume de transações e quantidade e valor de propostas de crédito;
-- Os clientes adultos a trazerem mais dinheiro para BancoVic, com transações financeiras de valores mais altos (da ordem de R$ 400 mil);
+- Os clientes adultos a trazerem mais dinheiro para banco, com transações financeiras de valores mais altos (da ordem de R$ 400 mil);
 - Buscar ações para aumentar o percentual de proposta financeiras aprovadas (que é atual de menos de 25%);
 - A maioria das propostas está em tramitação, cerca de 80%, tem status variando entre: enviada ao cliente, validação de documento dos clientes; e em análise por parte do banco). Isso demonstra que a equipe de colaboradores é lenta ou que o banco tem muitos procedimentos burocráticos. 
 
@@ -100,7 +97,7 @@ Legenda: Distribuição dos diferentes tipos de transações pelos menos do ano 
 ## **Recomendações aos tomadores de decisão**
 - Ampliar o número de clientes: abrir mais agências físicas e focar em fazer propaganda da agência digital, que tem apresentados ótimos resultados de desempenho nos últimos anos.
 - Os clientes jovens de até 4 anos de vínculo com o banco tem maior propensão a fazerem empréstimos e devem receber incentivos do setor de Marketing de forma personalizada a esse público-alvo.
-- O Setor de Marketing deveria dar incentivos para os clientes adultos a trazerem mais dinheiro para BancoVic, porque esse nicho de clientes que tem feito as transações financeiras de valores mais altos.
+- O Setor de Marketing deveria dar incentivos para os clientes adultos a trazerem mais dinheiro para Banco MG, porque esse nicho de clientes que tem feito as transações financeiras de valores mais altos.
 - Ampliar o leque de serviços ofertados, como por exemplo: seguro de vida/imóvel/automóvel, investimentos e previdência complementar.
 - Só existem clientes na categoria pessoa física, por isso seria interessante implementar soluções para atingir o público das empresas, como marketing direcionado a esse público-alvo. Além de implementar serviços direcionados a esse nicho de mercado (facilitar condições de empréstimo empresarial, diminuir taxa de manutenção da conta bancária, não cobrar anuidade do cartão de crédito corporativo etc.).
 - Diminuir a burocracia de análise das propostas de crédito. Mapear o tempo que a proposta fica parada em cada status e identificar onde pode-se agilizar o processo de tramitação.
