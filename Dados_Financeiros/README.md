@@ -9,10 +9,10 @@ Como etapa prévia a Análise dos Dados, foi realizada a definição dos indicad
 Posteriormente, foram definidas perguntas de negócio para analisar a situação atual do Banco MG, que foram separadas por indicador de negócio.
 
 ### 📍 Lucro do banco
-> Pergunta 1 - Em relação as transações bancárias, o banco enviou ou recebeu mais dinheiro ao longo do tempo?  
-> Pergunta 2 - Como está o valor das transações financeiras do banco ao longo do tempo?
-> Pergunta 3 - Qual o valor das propostas financeiras ao longo do tempo? 
-> Pergunta 4 - Montante de juros recebidos com empréstimos está maior ao longo do tempo? Ou seja, a taxa de juros das propostas financeiras (empréstimo) está beneficiando o banco?
+- Pergunta 1 - Em relação as transações bancárias, o banco enviou ou recebeu mais dinheiro ao longo do tempo?  
+- Pergunta 2 - Como está o valor das transações financeiras do banco ao longo do tempo?
+- Pergunta 3 - Qual o valor das propostas financeiras ao longo do tempo? 
+- Pergunta 4 - Montante de juros recebidos com empréstimos está maior ao longo do tempo? Ou seja, a taxa de juros das propostas financeiras (empréstimo) está beneficiando o banco?
 
 ### 📍 Perfil dos clientes
 > Pergunta 5 - Como é a distribuição da idade por agência? 
