@@ -1,4 +1,4 @@
-# **Projeto de Dados Financeiros com base em um Base de Dados de um Banco Fictício**
+# **Projeto de Dados Financeiros Fictícios**
 
 ## **Introdução**
 Focando em demostrar os diferenciais do Banco MG em relação as outras instituições financeiras do Brasil, foi realizado um projeto de Análise de Dados focando em ampliar a atuação do banco no mercado. 
@@ -39,7 +39,7 @@ Posteriormente, foram definidas perguntas de negócio para analisar a situação
 - Pergunta 20 - Existe vínculo entre idade dos colaboradores e total de propostas financeiras recebidas?
 
 
-## **Análise Realizadas**
+## **Análises Realizadas**
 Primeiramente, foi feita a transferência de dados de EPR e CRM em csv para um Banco de Dados Relacional empregando SQLite3.
 Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados.
 E dando início a análise de dados, foram escritos scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
