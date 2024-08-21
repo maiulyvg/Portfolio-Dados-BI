@@ -1,7 +1,7 @@
 # **Projeto com Dados Financeiros**
 
 ## **Introdução**
-Focando em demostrar os diferenciais do Banco Fictício MG em relação as outras instituições financeiras do Brasil, foi realizado um projeto de Análise de Dados com objetivo de ampliar a atuação do banco no mercado. 
+O projeto teve como objetivo conhecer os diferenciais e pontos de melhoria de um banco fictício, chamado Banco MG, tendo em mente a ampliação da atuação do banco no mercado brasileiro. 
 Para a realização do projeto, o Banco disponibilizou 7 tabelas em formato .csv geradas pelo servidor da nuvem da empresa, onde estão os dados do Sistema de Gestão de Recursos Empresariais (ERP), o Sistema de Gerenciamento de Relacionamento com Clientes (CRM) e Controle de dados de Marketing (em plataforma própria). 
 
 ## **Indicadores de Negócio**
