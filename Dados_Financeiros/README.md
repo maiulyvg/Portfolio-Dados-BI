@@ -81,7 +81,7 @@ Legenda: Distribuição dos diferentes tipos de transações pelos menos do ano 
 - E o Terceiro e Quarto Trimestre do ano concentram a grande maioria de número de envio da proposta e apresentam os maiores valores emprestados. Os cinco colaboradores com maior número propostas financeiras enviadas (da ordem de 1.000 propostas), com valores emprestados somados da ordem de R$5.800000e+09. E nota-se que os colaboradores com idade entre 30 e 60 anos concentram o maior volume de propostas.
 - Em relação as agências, a Agência Digital é a agência com maior número de propostas de crédito enviada, da ordem de 1.000 propostas, com valor emprestado somado de R$ 4.114808e+10.
 
-## **Conclusão sobre o projeto de dados financeiros**
+## **Conclusão sobre os Dados Financeiros**
 - O Banco MG está com movimentações positivas no decorrer dos anos;
 - O saldo das contas é parecido entre os estados que o banco atualmente possuí agências;
 - Só existem clientes na categoria pessoa física, por isso seria interessante implementar soluções para atingir o público das empresas;
