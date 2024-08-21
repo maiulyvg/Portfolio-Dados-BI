@@ -1,7 +1,7 @@
 # **Projeto com Dados Financeiros**
 
 ## **Introdução**
-Focando em demostrar os diferenciais do Banco Fictício MG em relação as outras instituições financeiras do Brasil, foi realizado um projeto de Análise de Dados focando em ampliar a atuação do banco no mercado. 
+Focando em demostrar os diferenciais do Banco Fictício MG em relação as outras instituições financeiras do Brasil, foi realizado um projeto de Análise de Dados com objetivo de ampliar a atuação do banco no mercado. 
 Para a realização do projeto, o Banco disponibilizou 7 tabelas em formato .csv geradas pelo servidor da nuvem da empresa, onde estão os dados do Sistema de Gestão de Recursos Empresariais (ERP), o Sistema de Gerenciamento de Relacionamento com Clientes (CRM) e Controle de dados de Marketing (em plataforma própria). 
 
 ## **Indicadores de Negócio**
@@ -41,7 +41,7 @@ Posteriormente, foram definidas perguntas de negócio para analisar a situação
 
 ## **Análises Realizadas**
 Primeiramente, foi feita a transferência de dados de EPR e CRM em csv para um Banco de Dados Relacional empregando SQLite3.
-Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados.
+Na sequência foi realizada consulta do banco de dados utilizando SQL.
 E dando início a análise de dados, foram escritos scripts com Python para análise exploratória, tratamento dos dados e resposta a perguntas de negócio. 
 
 **O script desenvolvido**, com base nas análises realizadas para o entendimento do negócio, está disponível [aqui](https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/analise_dados_financeiros.py).
