@@ -2,18 +2,27 @@
 
 Seja muito bem-vindo(a) ao meu portfólio de projetos na Área de Dados e Business Intelligence, com foco em resolver problemas de negócio!
 
-O projeto foi desenvolvidos tendo como base dados públicos ou fictício, durante a minha Formação de Analista de Dados na Comunidade DS e nos cursos livres complementares nas plataformas Coursera, Udemy, Alura e Data Science Academy.
+Os projetos foram desenvolvidos tendo como base dados públicos ou fictício, durante a minha Formação de Analista de Dados na Comunidade DS e nos cursos livres complementares nas plataformas Coursera, Udemy, Alura e Data Science Academy.
 
-💰 Acesso ao Projeto sobre Dados Financeiros: https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/README.md
+Portfólio contempla:
+- Extração, limpeza e carregamento de dados (ETL) utilizando de Python ou Power Query;
+- Consultas em banco de dados relacionais utilizando SQL;
+- Criação de painéis interativos (Dashboards) no Power BI ou no Excel.
+- Projetos desenvolvidos com dados de diversas áreas de negócio, como: Finanças, Vendas, Marketing, Dados Comerciais, RH, Logística, Contabilidade e Mercados de Ações. 
+
+💰 Acesso ao **Projeto Completo sobre **Dados Financeiros** (relatório, scripts e dashboard): https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/README.md
+📰 Acesso ao **Dashboard com Dados de Marketing**: https://app.powerbi.com/view?r=eyJrIjoiZGE5ZDA0M2YtYjE2YS00NDZlLTk1MGUtNGI4ZDZlNTMzZWY2IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
+📝 Acesso ao **Dashboard com Dados de RH**: https://app.powerbi.com/view?r=eyJrIjoiMjA3NzQzZmEtNzEzNi00NjQwLTlhYjItMmI4ZTEzYjFhYTYzIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
+🚚 Acesso ao **Dashboard com Dados de Logística**: https://app.powerbi.com/view?r=eyJrIjoiZjI3MTczOWItMjRmYi00NmVlLWFjMDEtM2MxZjU3ZDIwNDU3IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
 
 ## **Skills/Tools**: 
 - Data Analysis
 - SQL
-- Python
-- ETL
+- Python (Bibliotecas: Pandas, Numpy, Matplotlib, Plotly, Seaborn e Folium)
+- Extração, transformação e carga de dados (ETL)
 - Estatística
-- Power BI
-- Excel
+- Power BI (DAX)
+- Excel (VBA e Power Query)
 - Métricas de Negócio
 - Storytelling 
 - Banco de dados Relacional
