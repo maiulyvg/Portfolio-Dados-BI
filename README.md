@@ -4,7 +4,7 @@ Seja muito bem-vindo(a) ao meu portfólio de projetos na Área de Dados e Busine
 
 Os projetos foram desenvolvidos tendo como base dados públicos ou fictícios, durante a minha Formação de Analista de Dados na Comunidade DS e nos cursos livres complementares nas plataformas Coursera, Udemy, Alura e Data Science Academy.
 
-## **Portfólio contempla:** ##
+## **Projetos contemplam as atividades de:** ##
 - Extração, limpeza e carregamento de dados (ETL) utilizando de Python ou Power Query;
 - Consultas em banco de dados relacionais utilizando SQL;
 - Criação de painéis interativos (Dashboards) no Power BI ou no Excel;
