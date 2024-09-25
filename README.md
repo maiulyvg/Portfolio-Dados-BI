@@ -7,7 +7,7 @@ Os projetos foram desenvolvidos tendo como base dados públicos ou fictício, du
 ## **Portfólio contempla:** ##
 - Extração, limpeza e carregamento de dados (ETL) utilizando de Python ou Power Query;
 - Consultas em banco de dados relacionais utilizando SQL;
-- Criação de painéis interativos (Dashboards) no Power BI ou no Excel.
+- Criação de painéis interativos (Dashboards) no Power BI ou no Excel;
 - Projetos desenvolvidos com dados de diversas áreas de negócio, como: Finanças, Vendas, Marketing, Dados Comerciais, RH, Logística, Contabilidade e Mercados de Ações. 
 
 ## **Lista de projetos:** ##
