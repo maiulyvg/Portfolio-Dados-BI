@@ -11,8 +11,11 @@ Portfólio contempla:
 - Projetos desenvolvidos com dados de diversas áreas de negócio, como: Finanças, Vendas, Marketing, Dados Comerciais, RH, Logística, Contabilidade e Mercados de Ações. 
 
 💰 Acesso ao **Projeto Completo sobre **Dados Financeiros** (relatório, scripts e dashboard): https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/README.md
+
 📰 Acesso ao **Dashboard com Dados de Marketing**: https://app.powerbi.com/view?r=eyJrIjoiZGE5ZDA0M2YtYjE2YS00NDZlLTk1MGUtNGI4ZDZlNTMzZWY2IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
+
 📝 Acesso ao **Dashboard com Dados de RH**: https://app.powerbi.com/view?r=eyJrIjoiMjA3NzQzZmEtNzEzNi00NjQwLTlhYjItMmI4ZTEzYjFhYTYzIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
+
 🚚 Acesso ao **Dashboard com Dados de Logística**: https://app.powerbi.com/view?r=eyJrIjoiZjI3MTczOWItMjRmYi00NmVlLWFjMDEtM2MxZjU3ZDIwNDU3IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9
 
 ## **Skills/Tools**: 
