@@ -1,4 +1,4 @@
-# **Portfolio de Dados e BI**
+# **Portfólio de Dados e BI**
 
 Seja muito bem-vindo(a) ao meu portfólio de projetos na Área de Dados e Business Intelligence, com foco em resolver problemas de negócio!
 
