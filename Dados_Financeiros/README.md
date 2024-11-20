@@ -90,12 +90,12 @@ Legenda: Distribuição dos diferentes tipos de transações pelos meses do ano 
 - Só existem clientes na categoria pessoa física, por isso seria interessante implementar soluções para atingir o público das empresas;
 - Diminuir o tempo de inatividade dos clientes através da implementação de medidas de incentivo ao uso da conta para clientes mais inativos;
 - O dia da semana com mais montante e volume de transações financeiras é quinta-feira; 
-- A Segunda Quinzena do mês tem, em média, com maior volume de transações, todavia é a Primeira Quinzena que apresenta em média, o maior volume de transações. Assim sendo, conclui-se que na Segunda Quinzena são realizadas menos transações com valores mais altos, comparativamente aos realizados na Primeira Quinzena;
+- Na Segunda Quinzena são realizadas menos transações com valores mais altos, comparativamente aos realizados na Primeira Quinzena do mês;
 - Os clientes jovens de recente de vínculo com o banco tem maior propensão a fazerem empréstimos;
 - Seria interessante investir mais na ampliação da atuação da agência digital, porque ela tem apresentado números promissores em relação a número clientes, volume de transações e quantidade e valor de propostas de crédito;
-- Os clientes adultos a trazerem mais dinheiro para banco, com transações financeiras de valores mais altos (da ordem de R$ 400 mil);
+- Os clientes adultos tem maior propensão de trazerem mais dinheiro para banco, por meio de transações financeiras de valores mais altos (da ordem de R$ 400 mil);
 - Buscar ações para aumentar o percentual de proposta financeiras aprovadas (que é atual de menos de 25%);
-- A maioria das propostas está em tramitação, cerca de 80%, tem status variando entre: enviada ao cliente, validação de documento dos clientes; e em análise por parte do banco). Isso demonstra que a equipe de colaboradores é lenta ou que o banco tem muitos procedimentos burocráticos. 
+- A maioria das propostas está em tramitação (cerca de 80%), ou seja elas tem status variando entre: enviada ao cliente, validação de documento dos clientes e em análise por parte do banco. Isso demonstra que a equipe de colaboradores é lenta ou que o banco tem muitos procedimentos burocráticos. 
 
 
 ## **Recomendações aos tomadores de decisão**
