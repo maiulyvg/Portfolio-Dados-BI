@@ -30,7 +30,7 @@ Posteriormente, foram definidas perguntas de negócio para analisar a situação
 
 ### 📍 KPI Status das transações financeiras
 - Pergunta 12 - Qual dia da semana tem, em média, maior volume de transações e qual tem, também em média, maior valor movimentado?
-- Pergunta 13 - O BanVic tem, em média, os maiores valores movimentados no início ou final de mês? (Considere início do mês como sendo os primeiros 15 dias e o final do mês sendo os últimos 15 dias de cada mês).
+- Pergunta 13 - O Banco MG tem, em média, os maiores valores movimentados no início ou final de mês? (Considere início do mês como sendo os primeiros 15 dias e o final do mês sendo os últimos 15 dias de cada mês).
 - Pergunta 14 - O montante da transação tem relação com período do dia que é executada? 
 - Pergunta 15 - O tipo de transação tem relação com o mês do ano que é executada?
 - Pergunta 16 - O tipo de transação mudou ao longo dos anos?
