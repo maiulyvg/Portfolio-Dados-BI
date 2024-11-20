@@ -3,7 +3,7 @@
 ## **Introdução**
 O projeto teve como objetivo conhecer os diferenciais e pontos de melhoria de um banco fictício, chamado Banco MG, tendo em mente a ampliação da atuação do banco no mercado brasileiro. 
 Para a realização do projeto, o Banco disponibilizou 7 tabelas em formato .csv geradas pelo servidor da nuvem da empresa, onde estão os dados do Sistema de Gestão de Recursos Empresariais (ERP), o Sistema de Gerenciamento de Relacionamento com Clientes (CRM) e Controle de dados de Marketing (em plataforma própria). 
-Na sequência foi realizada consulta do banco de dados utilizando SQL para consultas no banco de dados e a análise de dados com Python. Nessa etapa foi executada a análise exploratória, o tratamento dos dados e a resposta as perguntas de negócio. 
+Na sequência, foi utilizando SQL para consultas no banco de dados e Python para análise de dados. Nessa etapa foi executada a análise exploratória, o tratamento dos dados e a resposta as perguntas de negócio. 
 Por fim, com base nos resultados foram feita recomendações à tomadores de decisão com base de insights acionáveis.
 Além disso, abaixo consta um detalhamento sobre os indicadores de negócio definidos e uma série de conclusões e recomendações com base nas análises executadas.
 
