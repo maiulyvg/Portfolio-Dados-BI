@@ -11,9 +11,9 @@ Os projetos foram desenvolvidos tendo como base dados públicos ou fictícios, d
 - Projetos desenvolvidos com dados de diversas áreas de negócio, como: Finanças, Vendas, Marketing, Comércio, RH, Logística, Contabilidade e Mercados de Ações. 
 
 ## **Lista de projetos:** ##
-- <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/README.md">💰 **Acesso ao Projeto Completo sobre **Dados Financeiros** (relatório, scripts e dashboard)**</a>
+- <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/Dados_Financeiros/README.md">💰 **Acesso ao Projeto Completo sobre **Banco Financeiro** (relatório, scripts e dashboard)**</a>
 
-- <a href="https://github.com/maiulyvg/curry_company"> 🥣 **Acesso ao Projeto Completo sobre **E-commerce** (relatório, scripts e dashboard)**</a>
+- <a href="https://github.com/maiulyvg/curry_company"> 🥣 **Acesso ao Projeto Completo sobre **E-commerce de Comida** (relatório, scripts e dashboard)**</a>
 
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiZGE5ZDA0M2YtYjE2YS00NDZlLTk1MGUtNGI4ZDZlNTMzZWY2IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9"> 📷 **Acesso ao Dashboard com Dados de Marketing** </a>
 
