@@ -21,6 +21,8 @@ Os projetos foram desenvolvidos tendo como base dados públicos ou fictícios, d
 
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiZjI3MTczOWItMjRmYi00NmVlLWFjMDEtM2MxZjU3ZDIwNDU3IiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9">🚚 **Acesso ao Dashboard com Dados de Logística**</a>
 
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiZWE1ZTJkNzktZmE2ZC00MzlkLWE3ZjktMThmZmYyNjVmMzEzIiwidCI6IjdiMjlkMzdmLTA2NTQtNDE5OC05ODljLTVkMzYyN2RkZDQ3NCJ9">👕 **Acesso ao Dashboard com Dados de Comércio de Roupas **</a>
+
 ## **Skills/Tools**: 
 - Data Analysis
 - SQL
